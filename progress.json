@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T07:44:00.321Z",
+  "generated_at": "2026-10-12T03:58:46.044Z",
   "items": {
     "math:12": {
       "kind": "math",
@@ -44,6 +44,19 @@
       "path": "math/0034-least-squares-and-the-normal-equations",
       "first_solved_at": "2026-09-17T07:43:58.880Z",
       "last_pushed_at": "2026-09-17T07:43:58.880Z"
+    },
+    "problem:195": {
+      "kind": "problem",
+      "id": "195",
+      "title": "Matrix Determinant & Trace",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/195",
+      "path": "problems/0195-matrix-determinant-trace",
+      "first_solved_at": "2026-10-12T03:58:45.315Z",
+      "last_pushed_at": "2026-10-12T03:58:45.315Z",
+      "language": "python",
+      "lines": 17
     }
   }
 }
